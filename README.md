@@ -31,7 +31,7 @@ Reg No.: 212221240012
 
 ### block.x = 1023
 ~~~
-#include "../common/common.h"
+#include ".common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
 
